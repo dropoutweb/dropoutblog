@@ -1,0 +1,12 @@
+- id: redesign
+  description: Reproiectarea site-ului dvs. web poate însemna lucruri diferite, dar aceștia sunt cei trei pași cruciale.
+  image: img/redesign.jpg
+- id: tehnic
+  description: Mereu ai avut bătăi de cap cu platforma Wordpress? Nu te descurci cu anumite plugin-uri? Această categorie este făcută special pentru a te învață să-ți usurezi muncă.
+  image: img/stephen-phillips-hostreviews-co-uk-sSPzmL7fpWc-unsplash.jpg
+- id: tips&tricks
+  description: Să vedem câteva tips & tricks importante pentru site-ul tau web care te vor ajuta să iti creezi un site web excelent pentru a iti reprezenta marca.
+  image: img/marvin-meyer-SYTO3xs06fU-unsplash.jpg
+- id: seo
+  description: SEO reprezintă optimizarea motoarelor de căutare, care este practica de a crește cantitatea și calitatea traficului către site-ul dvs. web prin rezultatele organice ale motorului de căutare.
+  image: img/stephen-phillips-hostreviews-co-uk-shr_Xn8S8QU-unsplash.jpg
