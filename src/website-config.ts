@@ -49,8 +49,8 @@ export interface WebsiteConfig {
 }
 
 const config: WebsiteConfig = {
-  title: 'DropoutBlog',
-  description: 'DropoutBlog',
+  title: 'LumeaDigitala.com - Totul despre World Wide Web',
+  description: 'Totul despre World Wide Web',
   coverImage: 'img/blog-cover.png',
   logo: 'img/ghost-logo.png',
   lang: 'en',
